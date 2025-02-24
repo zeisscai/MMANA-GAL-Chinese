@@ -1,0 +1,23 @@
+MMANA-GAL basic 3.5 is antenna analyzing tool based on the moment method.
+
+MMANA-GAL basic is freeware for private user.  Makoto Mori JE3HHT, Alexander Schewelev DL1PBD and Igor Gontcharenko DL2KQ  have the copyright of MMANA-GAL Basic, but they do not restrict any private users (HAM, hobby, education, etc).
+For any other purposes should be use MMANA-GAL PRO version http://gal-ana.de/promm/index.htm
+Official site of the MMANA-GAL basis are only http://www.gal-ana.de/basicmm/.
+This will ensure that users have access to the latest version and support.
+
+Please, do NOT send mail direct to JE3HHT, DL1PBD, DL2KQ or the webmaster of the MM Hamsoft Website. All questions or concerns related to the MMANA-GAL basic  program should be directed to MMANA-GAL user forum http://gal-ana.de/forum/index.php
+
+MMANA-GAL basic was released with no support or no warranty of any damage
+caused by the use of MMANA-GAL basic.
+
+
+MMANA-GAL 基础版 3.5 是一款基于矩量法的天线分析工具。
+
+MMANA-GAL 基础版是为个人用户提供的免费软件。Makoto Mori（JE3HHT）、Alexander Schewelev（DL1PBD）和Igor Gontcharenko（DL2KQ）拥有 MMANA-GAL 基础版的版权，但他们不对任何个人用户（业余无线电爱好者、兴趣、教育等）施加限制。
+对于任何其他用途，应使用 MMANA-GAL 专业版，网址为：http://gal-ana.de/promm/index.htm
+MMANA-GAL 基础版的官方网站仅为：http://www.gal-ana.de/basicmm/。
+这将确保用户能够访问最新版本和支持。
+
+请不要直接向 JE3HHT、DL1PBD、DL2KQ 或 MM Hamsoft 网站管理员发送邮件。所有与 MMANA-GAL 基础版程序相关的问题或疑虑，应通过 MMANA-GAL 用户论坛提出，网址为：http://gal-ana.de/forum/index.php
+
+MMANA-GAL 基础版发布时不提供支持，也不担保因使用 MMANA-GAL 基础版而造成的任何损害。

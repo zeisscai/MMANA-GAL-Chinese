@@ -1,0 +1,74 @@
+Language 简体中文
+ID 2052
+==========
+OpenGL_Form
+Caption 辐射图
+/
+MainMenu
+F0 文件
+F1 打开
+F2 另存图像为...
+F3 打印
+F4 加载颜色分贝
+F5 退出
+V0 视图
+V1 居中绘图
+V2 天线
+Vc 天线位置
+Vp1 水平
+Hc1 原样
+Hc2 居中
+Vp2 垂直
+Vc1 最小高度 = 0
+Vc2 天线中心 = Z0
+Vg0 图样
+Vg1 网格
+Vcl0 单色渐变
+Vcl1 单色
+S0 比例
+Sc1 ARRL
+Sc2 分贝
+Sc3 线性
+Sc4 设置最小分贝
+Sc5 主网格步长
+Col0 颜色
+Col1 参考网格
+Col2 单色渐变
+Col3 背景
+Col4 切片
+Col5 天线
+Col6 光标
+Col7 默认颜色
+Col8 坐标
+Col9 -3 分贝 ARRL
+Col10 轴
+ColX X
+ColY Y
+ColZ Z
+Col11 渐变校正
+Fn0 字体
+Fn1 字体
+Fn2 分贝字体大小
+Fn3 角度字体大小
+Fs1 小
+Fs2 中
+Fs3 大
+Su0 设置
+Su1 语言
+H0 帮助
+/
+SlicePanel
+SliceGB 切片
+ElvCB 仰角
+AzmCB 方位角
+EvSlLb 切片
+AzSlLb 光标
+ViewCoordCB 坐标
+/
+BedinPanel
+PatternViewCB 图样
+RefGridViewCB 参考网格
+SliceViewCB 切片
+ZoomLb 缩放
+FieldGB 场
+/

@@ -1,0 +1,37 @@
+   MMANA-GAL basic, version 3.5.3 
+        25 Dez 2021
+
+1.  Added advanced window "3D Far Fields" from PRO version.
+2.  The segments (max.) increased up to 10000.
+3.  The wires (max.) increased up to 600.
+4.  The sources (max.) increased up to 100.
+5.  Increased up to 20 the numbers of the radiuses of the tapper wires. 
+6.  Window "Reflection" added.
+7.  The Tab "Boom correction" added in window "HF tools".
+8.  Improved calculation of the closed wires. 
+9.  Improved calculation of gain and radiated power if antenna has a few sources.
+10. Improved display information in the tab "Calculation".
+11. Memory handling for the large antennas improved.
+12. Improved graphics in the window "2D Far Fields" and printing.
+13. Fix for the bug causing the stop of the optimization process.
+14. Corrected memory allocation when multiple windows are running simultaneously.
+15. Minor enhancements and bug fixes.
+
+MMANA-GAL 基础版，版本 3.5.3 
+        2021年12月25日
+
+1.  从专业版中添加了高级窗口“3D远场”。
+2.  分段数（最大值）增加至10000。
+3.  导线数（最大值）增加至600。
+4.  源数（最大值）增加至100。
+5.  锥形导线的半径数量增加至20个。
+6.  添加了“反射”窗口。
+7.  在“高频工具”窗口中添加了“横梁校正”选项卡。
+8.  改进了闭合导线的计算。
+9.  改进了多源天线的增益和辐射功率计算。
+10. 改进了“计算”选项卡中的显示信息。
+11. 改进了大型天线的内存处理。
+12. 改进了“2D远场”窗口的图形显示和打印功能。
+13. 修复了导致优化过程停止的错误。
+14. 修正了多个窗口同时运行时的内存分配问题。
+15. 小的增强和错误修复。
